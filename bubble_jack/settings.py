@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'calculus.apps.CalculusConfig',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
